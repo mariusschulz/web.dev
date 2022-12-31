@@ -53,7 +53,7 @@ The four components of the passkey registration flow are:
   public key and other metadata about the passkey.
 * **Frontend**: Your frontend which communicates with the browser and sends 
   fetch requests to the backend.
-* **Browser**: The user's browser which is running your Javascript.
+* **Browser**: The user's browser which is running your JavaScript.
 * **Authenticator**: The user's authenticator which creates and stores the 
   passkey. This may be on the same device as the browser (for example, when using 
   Windows Hello) or on another device, like a phone.
